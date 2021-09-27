@@ -1,0 +1,19 @@
+h1 {
+    color:mediumblue
+}
+img {
+    width: 400px;
+}
+
+#thirdDiv { 
+    height: 600px;
+    width: 500px;
+    background-color: mediumspringgreen;
+    padding: 50px;
+    border: 5px solid navy;
+
+}
+
+#spanID {
+    margin: 50px
+}
